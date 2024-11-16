@@ -1,0 +1,1 @@
+import{s as e}from"./chunks/App.BKJu6ISc.js";import{c as t,q as a,o as r}from"./chunks/framework.Bh4f_7Kc.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"page":true},"headers":[],"relativePath":"wine/7.md","filePath":"wine/7.md"}'),s={name:"wine/7.md"},p=Object.assign(s,{setup(n){return(o,c)=>(r(),t("div",null,[a(e)]))}});export{m as __pageData,p as default};
